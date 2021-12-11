@@ -76,7 +76,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet RXCE'
+    banner='figlet RXCE V2 |lolcat '
     numbers=[]
     while(y):
         clear()
@@ -111,7 +111,7 @@ def hero():
             y=False
         if (len(numbers)>11):
             clear()
-            system('figlet Thank you!!')
+            system('figlet Thank you!!|lolcat')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
@@ -144,7 +144,7 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet RXCE'
+        banner='figlet RXCE V2|lolcat'
         system(banner)
         #print("Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
@@ -167,11 +167,11 @@ else:
         # for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
-    code="BRIDE321"
+    code="SUCK"
     test="LIFEISLOL"
     night="LOLISLIFE"
-    nextday="NIT901312"
-    banner='figlet RXCE V2'
+    nextday="FUCK"
+    banner='figlet RXCE V2|lolcat'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -230,7 +230,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==nextday):
             clear()
-            banner='figlet RXCE V2'
+            banner='figlet RXCE V2|lolcat'
             system(banner)
             print("----------Your play time-----------")
             print("8th-14th Dec 2021, 02:30 PM- 03:00 PM")
@@ -259,6 +259,6 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         else:
             clear()
-            banner='figlet RXCE V2'
+            banner='figlet RXCE V2|lolcat'
             system(banner)
             print("Incorrect Activation Code :")
