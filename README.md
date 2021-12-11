@@ -216,7 +216,7 @@ else:
             print("11th Dec 2021, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
-            print("me on telegram @smsn_knt")
+            print("me on telegram @IDFCMONEY")
             print("wait.... starting....")
             time.sleep(20)
             period=rava
